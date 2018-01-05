@@ -1,4 +1,5 @@
 [![](https://jitpack.io/v/synman/ANR-WatchDog.svg)](https://jitpack.io/#synman/ANR-WatchDog)
+[![GitHub issues](https://img.shields.io/github/issues/synman/ANR-WatchDog.svg)](https://github.com/synman/ANR-WatchDog/issues)
 
 Modified implementation of ANR-WatchDog with 2 key additional features:
 
