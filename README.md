@@ -2,7 +2,7 @@
 
 Modified implementation of ANR-WatchDog with 2 key additional features:
 
-     * Ability specify number of retries
+     * Ability to specify number of retries
      * Additional Event for when the WatchDog gives up
 
 
