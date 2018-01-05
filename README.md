@@ -1,3 +1,13 @@
+[![](https://jitpack.io/v/synman/ANR-WatchDog.svg)](https://jitpack.io/#synman/ANR-WatchDog)
+
+Modified implementation of ANR-WatchDog with 2 key additional features:
+
+     * Ability specify number of retries
+     * Additional Event for when the WatchDog gives up
+
+
+Original work can be found on:
+
 [![Maven Central](https://img.shields.io/maven-central/v/com.github.anrwatchdog/anrwatchdog.svg)](https://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.github.anrwatchdog%22)
 [![MIT License](https://img.shields.io/github/license/salomonbrys/ANR-WatchDog.svg)](https://github.com/SalomonBrys/ANR-WatchDog/blob/master/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/SalomonBrys/ANR-WatchDog.svg)](https://github.com/SalomonBrys/ANR-WatchDog/issues)
