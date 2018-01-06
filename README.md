@@ -7,7 +7,7 @@ Modified implementation of ANR-WatchDog with 2 key additional features:
      * Additional Event for when the WatchDog gives up
 
 Example:
-
+```java
     {
         final ANRWatchDog anrWatchDog = new ANRWatchDog(2000);
 
@@ -58,7 +58,7 @@ Example:
             throw new RuntimeException("ANR Watchdog Gave Up");
         }
     }
-
+```
 Original work can be found on:
 
 [![Maven Central](https://img.shields.io/maven-central/v/com.github.anrwatchdog/anrwatchdog.svg)](https://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.github.anrwatchdog%22)
