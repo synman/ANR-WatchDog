@@ -236,7 +236,7 @@ public class ANRWatchDog extends Thread {
         }
 
         // we gave up
-        if (!isInterrupted()) {
+        if (triedCount >= tries) {
             _anrListener.onANRWatchDogGivingUp();
         }
     }
